@@ -932,3 +932,6 @@
 {"n":932,"kind":"place","name":"the pier south dock","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"the pier south dock. Ivo keeps the plywood for the push. 5 steps, direct on the left lane, open."}
 {"n":933,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, south dock. direct left open. 6 steps. The plywood stays for the push."}
 {"n":934,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the plywood at the pier. Nobody past the south dock. We push in 7 steps. Direct on the left lane, open."}
+{"n":935,"kind":"place","name":"the pier south dock","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"the pier south dock. Bess keeps the plywood for the push. 8 steps, direct on the left lane, open."}
+{"n":936,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, south dock. direct left open. 2 steps. The plywood stays for the push."}
+{"n":937,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the plywood at Clinic roof. Nobody past the south dock. We push in 3 steps. Direct on the left lane, open."}
