@@ -63,3 +63,6 @@
 {"n":63,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the hydrant at the Lot. Nobody past the north gutter. We push in 4 steps. Direct on the left lane, open."}
 {"n":64,"kind":"place","name":"the Lot north gutter","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"the Lot north gutter. Ivo keeps the hydrant for the push. 5 steps, direct on the left lane, open."}
 {"n":65,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, north gutter. direct left open. 6 steps. The hydrant stays for the push."}
+{"n":66,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the hydrant at the Lot. Nobody past the north gutter. We push in 7 steps. Direct on the left lane, open."}
+{"n":67,"kind":"place","name":"the Lot north gutter","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"the Lot north gutter. Bess keeps the hydrant for the push. 8 steps, direct on the left lane, open."}
+{"n":68,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, north gutter. direct left open. 2 steps. The hydrant stays for the push."}
