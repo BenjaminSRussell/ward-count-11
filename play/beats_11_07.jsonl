@@ -518,3 +518,6 @@
 {"n":518,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the crate at High line. Nobody past the east gutter. We push in 6 steps. Direct on the left lane, open."}
 {"n":519,"kind":"place","name":"High line east gutter","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"High line east gutter. Bess keeps the crate for the push. 7 steps, direct on the left lane, open."}
 {"n":520,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, east gutter. direct left open. 8 steps. The crate stays for the push."}
+{"n":521,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the lamp at Ward gate. Nobody past the east gutter. We push in 2 steps. Direct on the left lane, open."}
+{"n":522,"kind":"place","name":"Ward gate east gutter","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Ward gate east gutter. Matt keeps the lamp for the push. 3 steps, direct on the left lane, open."}
+{"n":523,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, east gutter. direct left open. 4 steps. The lamp stays for the push."}
