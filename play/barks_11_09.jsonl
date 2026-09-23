@@ -43,3 +43,6 @@
 {"n":43,"kind":"place","name":"Ward gate north gutter","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Ward gate north gutter. Bess keeps the hydrant for the push. 5 steps, direct on the left lane, open."}
 {"n":44,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, north gutter. direct left open. 6 steps. The hydrant stays for the push."}
 {"n":45,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the hydrant at Kessler alley. Nobody past the north gutter. We push in 7 steps. Direct on the left lane, open."}
+{"n":46,"kind":"place","name":"Kessler alley north gutter","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Kessler alley north gutter. Matt keeps the hydrant for the push. 8 steps, direct on the left lane, open."}
+{"n":47,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Kessler alley, north gutter. direct left open. 2 steps. The hydrant stays for the push."}
+{"n":48,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the hydrant at Kessler alley. Nobody past the north gutter. We push in 3 steps. Direct on the left lane, open."}
