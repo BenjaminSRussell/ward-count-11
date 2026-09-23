@@ -348,3 +348,6 @@
 {"n":348,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the barrel at Drydock. Nobody past the north gutter. We push in 2 steps. Direct on the left lane, open."}
 {"n":349,"kind":"place","name":"Drydock north gutter","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Drydock north gutter. Nia keeps the barrel for the push. 3 steps, direct on the left lane, open."}
 {"n":350,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, north gutter. direct left open. 4 steps. The barrel stays for the push."}
+{"n":351,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the barrel at Drydock. Nobody past the north gutter. We push in 5 steps. Direct on the left lane, open."}
+{"n":352,"kind":"place","name":"Drydock north gutter","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Drydock north gutter. Ivo keeps the barrel for the push. 6 steps, direct on the left lane, open."}
+{"n":353,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, north gutter. direct left open. 7 steps. The barrel stays for the push."}
