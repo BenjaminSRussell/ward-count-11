@@ -417,3 +417,6 @@
 {"n":417,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, north dock. direct left open. 8 steps. The drum stays for the push."}
 {"n":418,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the drum at South stair. Nobody past the north dock. We push in 2 steps. Direct on the left lane, open."}
 {"n":419,"kind":"place","name":"South stair north dock","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"South stair north dock. Bess keeps the drum for the push. 3 steps, direct on the left lane, open."}
+{"n":420,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, north dock. direct left open. 4 steps. The drum stays for the push."}
+{"n":421,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the drum at the pier. Nobody past the north dock. We push in 5 steps. Direct on the left lane, open."}
+{"n":422,"kind":"place","name":"the pier north dock","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"the pier north dock. Matt keeps the drum for the push. 6 steps, direct on the left lane, open."}
