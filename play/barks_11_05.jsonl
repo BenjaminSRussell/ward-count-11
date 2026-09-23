@@ -704,3 +704,6 @@
 {"n":704,"kind":"place","name":"the Lot west gutter","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"the Lot west gutter. Ivo keeps the rebar for the push. 5 steps, direct on the left lane, open."}
 {"n":705,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, west gutter. direct left open. 6 steps. The rebar stays for the push."}
 {"n":706,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the rebar at the Lot. Nobody past the west gutter. We push in 7 steps. Direct on the left lane, open."}
+{"n":707,"kind":"place","name":"the Lot west gutter","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"the Lot west gutter. Bess keeps the rebar for the push. 8 steps, direct on the left lane, open."}
+{"n":708,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, west gutter. direct left open. 2 steps. The rebar stays for the push."}
+{"n":709,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the rebar at Stockyard fence. Nobody past the west gutter. We push in 3 steps. Direct on the left lane, open."}
